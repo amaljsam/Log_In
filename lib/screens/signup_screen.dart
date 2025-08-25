@@ -16,7 +16,6 @@ class SignupScreen extends StatefulWidget {
   @override
   _SignupScreenState createState() => _SignupScreenState();
 }
-
 /// The state class for [SignupScreen].
 ///
 /// Manages the state for text controllers, form keys, loading indicators,
